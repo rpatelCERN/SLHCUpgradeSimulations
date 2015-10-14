@@ -1,0 +1,103 @@
+globaltag = PH2_1K_FB_V3::All
+15-Jul-2015 10:06:37 CEST  Initiating request to open file file:/tmp/rpatel/SingleMuon_tt27_0.root
+15-Jul-2015 10:06:39 CEST  Successfully opened file file:/tmp/rpatel/SingleMuon_tt27_0.root
+
+TTTrackAssociator< edm::Ref<edm::DetSetVector<PixelDigi>, PixelDigi, edm::refhelper::FindForDetSetVector<PixelDigi> > > loaded.
+
+in MuonNumberingInitialization::initializeMuonDDDConstants
+about to make my new muonDDDConst_
+in MuonNumberingInitialization::produce
+Begin processing the 1st record. Run 1, Event 1, LumiSection 1 at 15-Jul-2015 10:06:44.200 CEST
+Found:
+
+	Barrel Stack layer 5 : 1008 stacks
+	Barrel Stack layer 6 : 1320 stacks
+	Barrel Stack layer 7 : 1836 stacks
+	Barrel Stack layer 8 : 1152 stacks
+	Barrel Stack layer 9 : 1488 stacks
+	Barrel Stack layer 10 : 1824 stacks
+
+	Endcap Stack disk 11 : 1360 stacks
+	Endcap Stack disk 12 : 1360 stacks
+	Endcap Stack disk 13 : 1360 stacks
+	Endcap Stack disk 14 : 1360 stacks
+	Endcap Stack disk 15 : 1360 stacks
+Created 15428 stacks in 12 s
+Warning did not find digi
+Warning did not find digi
+Warning did not find digi
+Warning did not find digi
+Warning did not find digi in disks
+Warning did not find digi in disks
+Warning did not find digi in disks
+Warning did not find digi in disks
+Track Collection Size 156
+Extended Collection Size 0
+Track Collection Size 156
+Extended Collection Size 0
+Begin processing the 2nd record. Run 1, Event 2, LumiSection 1 at 15-Jul-2015 10:07:04.397 CEST
+Track Collection Size 152
+Extended Collection Size 1
+Track Collection Size 152
+Extended Collection Size 0
+Begin processing the 3rd record. Run 1, Event 3, LumiSection 1 at 15-Jul-2015 10:07:05.310 CEST
+Track Collection Size 105
+Extended Collection Size 0
+Track Collection Size 105
+Extended Collection Size 0
+Begin processing the 4th record. Run 1, Event 4, LumiSection 1 at 15-Jul-2015 10:07:06.324 CEST
+Track Collection Size 119
+Extended Collection Size 1
+have a gmt, look for a match 
+Z Correction 
+P 2.23431 PT 2.23241 eta -0.0412383
+rinv -0.00511809 Phi 1.68454
+Z Correction 
+P 2.09391 PT 2.05514 eta 0.19393
+rinv 0.00555955 Phi 1.17304
+Z Correction 
+P 240.229 PT 236.052 eta 0.187848
+rinv -4.84032e-05 Phi 1.4869
+Match Radius 0.0010455
+Z Correction 
+P 2.20159 PT 2.19568 eta 0.0733812
+rinv -0.00520372 Phi 1.68183
+Z Correction 
+P 6.19015 PT 5.34221 eta 0.556228
+rinv -0.00213875 Phi 1.37543
+Match Radius 0.25576
+matching index is 37
+match details: prop 236.052 0.181345 1.47559 mutk 140 0.15 1.48353 delta 0.0313452 0.007936 cut 0.0866119 0.0504153
+Track Collection Size 119
+Extended Collection Size 0
+Begin processing the 5th record. Run 1, Event 5, LumiSection 1 at 15-Jul-2015 10:07:07.260 CEST
+Track Collection Size 114
+Extended Collection Size 1
+have a gmt, look for a match 
+Z Correction 
+P 234.528 PT 185.138 eta 0.715105
+rinv -6.17143e-05 Phi 1.11969
+Match Radius 0.00136827
+matching index is 5
+match details: prop 185.138 0.719177 1.11128 mutk 140 0.75 1.09083 delta 0.0308229 0.0204505 cut 0.0866177 0.0504353
+Track Collection Size 114
+Extended Collection Size 0
+15-Jul-2015 10:07:08 CEST  Closed file file:/tmp/rpatel/SingleMuon_tt27_0.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             1        1
+    2 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostEndRun                        
+    2 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                  3                   3

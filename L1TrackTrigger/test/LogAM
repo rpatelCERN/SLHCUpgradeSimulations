@@ -1,0 +1,419 @@
+globaltag = PH2_1K_FB_V3::All
+15-Jul-2015 10:03:53 CEST  Initiating request to open file file:/tmp/rpatel/SingleMuon_tt27_0.root
+15-Jul-2015 10:03:55 CEST  Successfully opened file file:/tmp/rpatel/SingleMuon_tt27_0.root
+Found:
+
+	Barrel Stack layer 5 : 1008 stacks
+	Barrel Stack layer 6 : 1320 stacks
+	Barrel Stack layer 7 : 1836 stacks
+	Barrel Stack layer 8 : 1152 stacks
+	Barrel Stack layer 9 : 1488 stacks
+	Barrel Stack layer 10 : 1824 stacks
+
+	Endcap Stack disk 11 : 1360 stacks
+	Endcap Stack disk 12 : 1360 stacks
+	Endcap Stack disk 13 : 1360 stacks
+	Endcap Stack disk 14 : 1360 stacks
+	Endcap Stack disk 15 : 1360 stacks
+Created 15428 stacks in 11 s
+in MuonNumberingInitialization::initializeMuonDDDConstants
+about to make my new muonDDDConst_
+in MuonNumberingInitialization::produce
+Begin processing the 1st record. Run 1, Event 1, LumiSection 1 at 15-Jul-2015 10:04:18.230 CEST
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:18 CEST Run: 1 Event: 1
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelBarrelLowTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:18 CEST Run: 1 Event: 1
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelBarrelHighTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:18 CEST Run: 1 Event: 1
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelEndcapLowTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:18 CEST Run: 1 Event: 1
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelEndcapHighTof
+%MSG
+%MSG-e NTuplePixelDigis:  NTuplePixelDigis:ntuplePixelDigis  15-Jul-2015 10:04:18 CEST Run: 1 Event: 1
+Cannot get the product: InputTag:  label = simSiPixelDigis, instance = 
+%MSG
+[0;36mINFO[0m   : Loading patterns from /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Opening /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Successfully opened /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Assume 322 possible superstrips per layer.
+[0;36mINFO[0m   : Successfully loaded 150327 patterns.
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+Tracking Particle 13
+Tracking Particle 4-vec 2.20705, 0.506178, 1.24017
+ngoods 0 nfakes 0
+duplicates 0
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+Track Collection Size 0
+Extended Collection Size 0
+Track Collection Size 0
+Extended Collection Size 0
+Begin processing the 2nd record. Run 1, Event 2, LumiSection 1 at 15-Jul-2015 10:04:21.912 CEST
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:21 CEST Run: 1 Event: 2
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelBarrelLowTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:21 CEST Run: 1 Event: 2
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelBarrelHighTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:21 CEST Run: 1 Event: 2
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelEndcapLowTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:21 CEST Run: 1 Event: 2
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelEndcapHighTof
+%MSG
+%MSG-e NTuplePixelDigis:  NTuplePixelDigis:ntuplePixelDigis  15-Jul-2015 10:04:21 CEST Run: 1 Event: 2
+Cannot get the product: InputTag:  label = simSiPixelDigis, instance = 
+%MSG
+[0;36mINFO[0m   : Loading patterns from /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Opening /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Successfully opened /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Assume 322 possible superstrips per layer.
+[0;36mINFO[0m   : Successfully loaded 150327 patterns.
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+[1;31mERROR[0m  : Failed to read any event.
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+bits = 0
+rinv: 0.00182229 phi0: 0.822848 cottheta: 0.838496 z0: -5.52813 d0: 0 chi2: 2473.8 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.00182051 phi0: 0.822178 cottheta: 0.874335 z0: -7.15567 d0: 0 chi2: 2692.39 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+Tracking Particle 13
+Tracking Particle 4-vec 572.537, 0.271659, 0.808844
+cat 0
+cat -1
+ngoods 1 nfakes 0
+duplicates 1
+Track pT 6.25585 r 0.00182229 Matched Pt 572.537
+Track Pt 6.25585 AM pT 6.25585
+Track Pt 6.26199 AM pT 6.26199
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+Track Collection Size 2
+Extended Collection Size 1
+Track Collection Size 2
+Extended Collection Size 0
+Begin processing the 3rd record. Run 1, Event 3, LumiSection 1 at 15-Jul-2015 10:04:24.460 CEST
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:24 CEST Run: 1 Event: 3
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelBarrelLowTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:24 CEST Run: 1 Event: 3
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelBarrelHighTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:24 CEST Run: 1 Event: 3
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelEndcapLowTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:24 CEST Run: 1 Event: 3
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelEndcapHighTof
+%MSG
+%MSG-e NTuplePixelDigis:  NTuplePixelDigis:ntuplePixelDigis  15-Jul-2015 10:04:24 CEST Run: 1 Event: 3
+Cannot get the product: InputTag:  label = simSiPixelDigis, instance = 
+%MSG
+[0;36mINFO[0m   : Loading patterns from /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Opening /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Successfully opened /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Assume 322 possible superstrips per layer.
+[0;36mINFO[0m   : Successfully loaded 150327 patterns.
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+[1;31mERROR[0m  : Failed to read any event.
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+bits = 0
+rinv: -0.000495066 phi0: 0.986034 cottheta: 0.203156 z0: 0.504103 d0: 0 chi2: 4.52523 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: -0.00049505 phi0: 0.986088 cottheta: 0.205572 z0: 0.389512 d0: 0 chi2: 9.6528 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+Tracking Particle 13
+Tracking Particle 4-vec 20.1799, 0.204822, 0.985821
+cat 0
+cat -1
+ngoods 1 nfakes 0
+duplicates 1
+Track pT 23.0273 r -0.000495066 Matched Pt 20.1799
+Track Pt 23.0273 AM pT 23.0273
+Track Pt 23.028 AM pT 23.028
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+Track Collection Size 2
+Extended Collection Size 0
+Track Collection Size 2
+Extended Collection Size 0
+Begin processing the 4th record. Run 1, Event 4, LumiSection 1 at 15-Jul-2015 10:04:26.975 CEST
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:26 CEST Run: 1 Event: 4
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelBarrelLowTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:26 CEST Run: 1 Event: 4
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelBarrelHighTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:26 CEST Run: 1 Event: 4
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelEndcapLowTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:26 CEST Run: 1 Event: 4
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelEndcapHighTof
+%MSG
+%MSG-e NTuplePixelDigis:  NTuplePixelDigis:ntuplePixelDigis  15-Jul-2015 10:04:26 CEST Run: 1 Event: 4
+Cannot get the product: InputTag:  label = simSiPixelDigis, instance = 
+%MSG
+[0;36mINFO[0m   : Loading patterns from /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Opening /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Successfully opened /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Assume 322 possible superstrips per layer.
+[0;36mINFO[0m   : Successfully loaded 150327 patterns.
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+[1;31mERROR[0m  : Failed to read any event.
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+bits = 0
+rinv: 0.00154698 phi0: 1.56343 cottheta: 0.635228 z0: -5.05053 d0: 0 chi2: 213792 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.00160147 phi0: 1.56389 cottheta: 0.635226 z0: -5.05048 d0: 0 chi2: 213906 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.00175343 phi0: 1.5652 cottheta: 0.635219 z0: -5.05035 d0: 0 chi2: 214458 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.00179643 phi0: 1.56557 cottheta: 0.635217 z0: -5.05031 d0: 0 chi2: 214678 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.00150361 phi0: 1.5631 cottheta: 0.635227 z0: -5.05051 d0: 0 chi2: 214104 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.0015581 phi0: 1.56357 cottheta: 0.635224 z0: -5.05046 d0: 0 chi2: 214288 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.00171006 phi0: 1.56488 cottheta: 0.635218 z0: -5.05032 d0: 0 chi2: 215038 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.00175306 phi0: 1.56524 cottheta: 0.635216 z0: -5.05028 d0: 0 chi2: 215314 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.0015455 phi0: 1.5634 cottheta: 0.630209 z0: -4.91785 d0: 0 chi2: 214966 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.0016 phi0: 1.56387 cottheta: 0.630206 z0: -4.9178 d0: 0 chi2: 215079 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.00175196 phi0: 1.56517 cottheta: 0.6302 z0: -4.91767 d0: 0 chi2: 215632 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.00179496 phi0: 1.56554 cottheta: 0.630198 z0: -4.91763 d0: 0 chi2: 215852 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.00150213 phi0: 1.56308 cottheta: 0.630208 z0: -4.91783 d0: 0 chi2: 215292 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.00155663 phi0: 1.56355 cottheta: 0.630205 z0: -4.91778 d0: 0 chi2: 215477 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.00170859 phi0: 1.56485 cottheta: 0.630199 z0: -4.91765 d0: 0 chi2: 216227 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: 0.00175159 phi0: 1.56522 cottheta: 0.630197 z0: -4.91761 d0: 0 chi2: 216502 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+Tracking Particle 13
+Tracking Particle 4-vec 241.902, 0.188769, 1.48696
+cat 0
+cat -1
+cat -1
+cat -1
+cat -1
+cat -1
+cat -1
+cat -1
+cat -1
+cat -1
+cat -1
+cat -1
+cat -1
+cat -1
+cat -1
+cat -1
+ngoods 1 nfakes 0
+duplicates 15
+Track pT 7.36921 r 0.00154698 Matched Pt 241.902
+Track Pt 7.36921 AM pT 7.36921
+Track Pt 7.11845 AM pT 7.11845
+Track Pt 6.50153 AM pT 6.50153
+Track Pt 6.3459 AM pT 6.3459
+Track Pt 7.58178 AM pT 7.58178
+Track Pt 7.3166 AM pT 7.3166
+Track Pt 6.66642 AM pT 6.66642
+Track Pt 6.5029 AM pT 6.5029
+Track Pt 7.37624 AM pT 7.37624
+Track Pt 7.12501 AM pT 7.12501
+Track Pt 6.507 AM pT 6.507
+Track Pt 6.35112 AM pT 6.35112
+Track Pt 7.58922 AM pT 7.58922
+Track Pt 7.32353 AM pT 7.32353
+Track Pt 6.67218 AM pT 6.67218
+Track Pt 6.50838 AM pT 6.50838
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+Track Collection Size 16
+Extended Collection Size 1
+have a gmt, look for a match 
+Z Correction 
+Match Radius 0.272182
+Z Correction 
+Match Radius 0.278662
+Z Correction 
+Match Radius 0.298102
+Z Correction 
+Match Radius 0.303969
+Z Correction 
+Match Radius 0.267182
+Z Correction 
+Match Radius 0.273454
+Z Correction 
+Match Radius 0.292314
+Z Correction 
+Match Radius 0.298017
+Z Correction 
+Match Radius 0.268456
+Z Correction 
+Match Radius 0.274929
+Z Correction 
+Match Radius 0.29435
+Z Correction 
+Match Radius 0.300212
+Z Correction 
+Match Radius 0.263461
+Z Correction 
+Match Radius 0.269726
+Z Correction 
+Match Radius 0.288567
+Z Correction 
+Match Radius 0.294265
+matching index is 12
+match details: prop 7.58922 0.58699 1.21427 mutk 140 0.15 1.48353 delta 0.43699 0.26926 cut 0.0951977 0.0752316
+Track Collection Size 16
+Extended Collection Size 0
+Begin processing the 5th record. Run 1, Event 5, LumiSection 1 at 15-Jul-2015 10:04:29.282 CEST
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:29 CEST Run: 1 Event: 5
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelBarrelLowTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:29 CEST Run: 1 Event: 5
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelBarrelHighTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:29 CEST Run: 1 Event: 5
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelEndcapLowTof
+%MSG
+%MSG-e NTupleMixedSimHits:  NTupleMixedSimHits:ntupleMixedSimHits  15-Jul-2015 10:04:29 CEST Run: 1 Event: 5
+Cannot get the product: InputTag:  label = g4SimHits, instance = TrackerHitsPixelEndcapHighTof
+%MSG
+%MSG-e NTuplePixelDigis:  NTuplePixelDigis:ntuplePixelDigis  15-Jul-2015 10:04:29 CEST Run: 1 Event: 5
+Cannot get the product: InputTag:  label = simSiPixelDigis, instance = 
+%MSG
+[0;36mINFO[0m   : Loading patterns from /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Opening /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Successfully opened /afs/cern.ch/work/r/rpatel/private/CMSSW_6_2_0_SLHC25_patch3/src/SLHCL1TrackTriggerSimulations/AMSimulation/data/Patterns/patternBank_tt27_sf1_nz1_pt3_100M.root
+[0;36mINFO[0m   : Assume 322 possible superstrips per layer.
+[0;36mINFO[0m   : Successfully loaded 150327 patterns.
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+[1;31mERROR[0m  : Failed to read any event.
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+bits = 0
+rinv: -5.83811e-05 phi0: 1.11783 cottheta: 1.41377 z0: -25.7477 d0: 0 chi2: 36074.1 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: -5.83811e-05 phi0: 1.11783 cottheta: 1.41377 z0: -25.7477 d0: 0 chi2: 36074.1 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: -5.34289e-05 phi0: 1.11975 cottheta: 0.775785 z0: 2.89934 d0: 0 chi2: 12.1091 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: -5.34289e-05 phi0: 1.11975 cottheta: 0.775785 z0: 2.89934 d0: 0 chi2: 12.1091 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: -5.3048e-05 phi0: 1.1199 cottheta: 0.781177 z0: 2.65726 d0: 0 chi2: 11.6098 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+bits = 0
+rinv: -5.3048e-05 phi0: 1.1199 cottheta: 0.781177 z0: 2.65726 d0: 0 chi2: 11.6098 ndof: 8 chi2_phi: 0 chi2_z: 0 tpId: -1 tower: 99 hitBits: 0 ptSegment: 0 roadRef: 0 combRef: 0 patternRef: 0 # stubs: 0 # principals: 0
+
+Tracking Particle 13
+Tracking Particle 4-vec 196.518, 0.719194, 1.11987
+cat 0
+cat -1
+cat -1
+cat -1
+cat -1
+cat -1
+ngoods 1 nfakes 0
+duplicates 5
+Track pT 195.269 r -5.83811e-05 Matched Pt 196.518
+Track Pt 195.269 AM pT 195.269
+Track Pt 195.269 AM pT 195.269
+Track Pt 213.368 AM pT 213.368
+Track Pt 213.368 AM pT 213.368
+Track Pt 214.9 AM pT 214.9
+Track Pt 214.9 AM pT 214.9
+Basic Reader Init 
+After Basic Init 
+After Second Get By Label 
+Track Collection Size 6
+Extended Collection Size 1
+have a gmt, look for a match 
+Z Correction 
+Match Radius 0.00138711
+Z Correction 
+Match Radius 0.00138711
+Z Correction 
+Match Radius 0.00115391
+Z Correction 
+Match Radius 0.00115391
+matching index is 4
+match details: prop 214.9 0.72171 1.10963 mutk 140 0.75 1.09083 delta 0.0282905 0.0188031 cut 0.0866138 0.0504219
+Track Collection Size 6
+Extended Collection Size 0
+15-Jul-2015 10:04:31 CEST  Closed file file:/tmp/rpatel/SingleMuon_tt27_0.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 NTupleMixedSimHits   -e NTupleMixedSimHi                      20       20
+    2 NTuplePixelDigis     -e NTuplePixelDigis                       5        5
+    3 fileAction           -s file_close                             1        1
+    4 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 NTupleMixedSimHits   1/1              1/1              1/5
+    2 NTuplePixelDigis     1/1              1/2              1/5
+    3 fileAction           PostEndRun                        
+    4 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Error                  25                  25
+System                  3                   3
